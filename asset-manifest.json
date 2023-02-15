@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/quran-tafakkur/static/css/main.372fa342.css",
-    "main.js": "/quran-tafakkur/static/js/main.ea2b523a.js",
+    "main.js": "/quran-tafakkur/static/js/main.a861618c.js",
     "static/js/787.ac90652c.chunk.js": "/quran-tafakkur/static/js/787.ac90652c.chunk.js",
     "static/media/logo.svg": "/quran-tafakkur/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/quran-tafakkur/index.html",
     "main.372fa342.css.map": "/quran-tafakkur/static/css/main.372fa342.css.map",
-    "main.ea2b523a.js.map": "/quran-tafakkur/static/js/main.ea2b523a.js.map",
+    "main.a861618c.js.map": "/quran-tafakkur/static/js/main.a861618c.js.map",
     "787.ac90652c.chunk.js.map": "/quran-tafakkur/static/js/787.ac90652c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.372fa342.css",
-    "static/js/main.ea2b523a.js"
+    "static/js/main.a861618c.js"
   ]
 }
